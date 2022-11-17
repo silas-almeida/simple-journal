@@ -1,0 +1,45 @@
+{
+  "users": [
+    {
+      "email": "silas2@gmail.com",
+      "password": "$2a$10$2ZWLEIiJNgeV0FzoRVZgo.m5EdHN3f0TcYLi63bo1YGEPJu7bJzC6",
+      "id": 1
+    },
+    {
+      "email": "silas@gmail.com",
+      "password": "$2a$10$BqEhL5f6mIhRKJn3FV1QTO2ePOxZsmJm/h0cnTQfNuRGDeEP3pDLu",
+      "id": 2
+    },
+    {
+      "email": "silas3@gmail.com",
+      "password": "$2a$10$2l9auWZ3MyeU0ZjZ94muce4Pmh9vAOhRi5XNuTH.Y00aMynAaQI.G",
+      "id": 3
+    }
+  ],
+  "learnhttp": {
+    "content": "Olá, mundo!"
+  },
+  "journals": [
+    {
+      "id": "4c610d00-667c-11ed-87c9-cd3de4d6908c",
+      "content": "dia 8, salvee",
+      "created_at": "2022-11-08 13:32:33.206247",
+      "updated_at": "2022-11-17 17:47:03.658396",
+      "userId": 2
+    },
+    {
+      "id": "4fca9dd0-667c-11ed-87c9-cd3de4d6908c",
+      "content": "dia 9, salve",
+      "created_at": "2022-11-09 13:32:33.206247",
+      "updated_at": "2022-11-09 13:32:33.206247",
+      "userId": 2
+    },
+    {
+      "id": "5b3b6370-667c-11ed-87c9-cd3de4d6908c",
+      "content": "dia 8, dale",
+      "created_at": "2022-11-08 13:32:59.985070",
+      "updated_at": "2022-11-08 13:32:59.985070",
+      "userId": 1
+    }
+  ]
+}
