@@ -1,4 +1,4 @@
-# Simple_journal
+# Simple Journal
 
 A simple journal with connection to json-server API.
 
